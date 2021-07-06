@@ -11,7 +11,7 @@ h1{
 .space-control{
     width: 50%;
     padding-left: 5%;
-  }
+    }
 .space-control img{
     width: 90%;
 }
@@ -34,10 +34,34 @@ h1{
     background-image: url(images/Group\ 8449.png);
 }
 
-
 .flexible-container{
-    display: flex;
+    display: flex;   
+}
+
+.recipe-item{
     
+    width: 17%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px steelblue;
+    padding: 5%;
+    border-radius: 25px;
+}
+
+.recipe-item img{
+    width: 270px;
     
 }
+
+#recipe-ingredient{
+    text-align: center;
+}
+
+
+footer{
+    text-align: center;
+    background-color: skyblue;
+}
+  
+
 
