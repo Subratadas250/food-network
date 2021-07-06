@@ -18,17 +18,22 @@ h1{
 .ordering-button{
     text-decoration: none;
     font-size: 35px;
+    color: white;
     background-image: linear-gradient(orange, orangered);
     padding: 15px 45px;
-    border-radius: 40px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px orangered;
+    
 }
 .contact-button{
 
     text-decoration: none;
     font-size: 35px;
+    color: white ;
     background-image: linear-gradient(orange, orangered);
     padding: 15px 45px;
     border-radius: 40px;
+    box-shadow: 10px 10px 15px white;
 }
 .background-image{
     background-image: url(images/Group\ 8449.png);
